@@ -43,10 +43,10 @@ Gonul Al
 > Any user can see e-commerce companies through short press on any special day.
 
 ### TODOs
-[ ] Control E-mail Input on Login Page
-[ ] Get Special Days' Addresses to send gifts directly to the related place. 
-[ ] When clicked on any e-commerce company, special offers should appear and user should can choose it.
-[ ] !BUG! Updating Special Days is not working properly.
+- [ ] Control E-mail Input on Login Page
+- [ ] Get Special Days' Addresses to send gifts directly to the related place. 
+- [ ] When clicked on any e-commerce company, special offers should appear and user should can choose it.
+- [ ] !BUG! Updating Special Days is not working properly.
 
 License
 ----
