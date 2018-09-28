@@ -1,10 +1,12 @@
 # Gonul Al
 
-![Logo](https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/infinity.png?raw=true#center)
+<p align="center">
+    <img src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/infinity.png?raw=true#center" alt="Image" width="800" height="600" />
+</p>
 
 Flutter App To Remind Special Days
 
-        <img height="480px" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/1login_empty.png?raw=true">  <img height="480px" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/2login.png?raw=true">
+<img height="480px" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/1login_empty.png?raw=true">  <img height="480px" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/2login.png?raw=true">
 
 > Login Page provides an interface for entering to the system. E-mail is requested for any user once.
 
