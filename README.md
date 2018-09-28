@@ -2,7 +2,7 @@
     <img src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/infinity.png?raw=true#center" alt="Image" />
 </p>
 
-<p align="center">
+<p align="center" style="font-size:160%;">
 Gonul Al
 </p>
 
