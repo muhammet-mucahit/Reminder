@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "617068240172",
+    "firebase_url": "https://reminder-app-db.firebaseio.com",
+    "project_id": "reminder-app-db",
+    "storage_bucket": "reminder-app-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617068240172:android:1555fd079730e950",
+        "android_client_info": {
+          "package_name": "com.example.gonulal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617068240172-btjpaf2p9t9iq4b83vjq44jlj2ikfj1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQVfnAnX-atGmMw2_lp8xyMGR_RyPkmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
