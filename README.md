@@ -1,20 +1,17 @@
-# Gonul Al
-
 <p align="center">
     <img src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/infinity.png?raw=true#center" alt="Image" />
+    Gonul Al
 </p>
 
 <p align="center">
-    Flutter App To Remind Special Days
-</p>
-
-<p align="center">
-    <img height="600px" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/1login_empty.png?raw=true">  <img height="600px" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/2login.png?raw=true">
+    <img height="480" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/1login_empty.png?raw=true">  <img height="480" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/2login.png?raw=true">
 </p>
 
 > Login Page provides an interface for entering to the system. E-mail is requested for any user once.
 
-![](https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/3homepage.png?raw=true)  ![](https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/4homepage2.png?raw=true)
+<p align="center">
+<img height="480" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/3homepage.png?raw=true">  <img height="480" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/4homepage2.png?raw=true">
+</p>
 
 > Homepage shows predefined special days and user's special days in two tabs. If today is any special day, the color of the special day's circle avatar will be different.
 
