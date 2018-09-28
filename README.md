@@ -1,6 +1,4 @@
-<p align="center">
-Gonul Al
-</p>
+# Gonul Al
 
 <p align="center">
     <img src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/infinity.png?raw=true#center" alt="Image" />
