@@ -2,7 +2,9 @@
     <img src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/infinity.png?raw=true#center" alt="Image" />
 </p>
 
-<h1 style="text-align:center;">Centered Heading</h1>
+<p align="center">
+Gonul Al
+</p>
 
 <p align="center">
     <img height="480" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/1login_empty.png?raw=true">  <img height="480" src="https://github.com/Mucahit3/Reminder/blob/master/gonul_al/assets/2login.png?raw=true">
